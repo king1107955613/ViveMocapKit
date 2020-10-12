@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"PCH.VMKFingersSolver.h.obj",
+		"Module.VMKFingersSolver.cpp.obj",
+		"Module.VMKFingersSolver.gen.cpp.obj"
+	]
+}
