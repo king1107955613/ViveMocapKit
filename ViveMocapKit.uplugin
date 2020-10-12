@@ -1,0 +1,48 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "",
+	"FriendlyName": "ViveMocapKit",
+	"Description": "Vive Mocap Kit: using Vive Trackers for motion capture",
+	"Category": "Virtual Reality",
+	"CreatedBy": "YuriNK",
+	"CreatedByURL": "",
+	"DocsURL": "http://antiantigame.ru/docs/ViveMocapKit_Plugin.pdf",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/53d8770d540d4e92bbb48fb59653c474",
+	"SupportURL": "ykasczc@gmail.com",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "VMKFingersSolver",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "VMKFingersSolverEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "ViveMocapKit",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SteamVR",
+			"Enabled": true
+		}
+	]
+}
