@@ -1,0 +1,9 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"ViveMocapKit": "UE4Editor-ViveMocapKit.dll",
+		"VMKFingersSolver": "UE4Editor-VMKFingersSolver.dll",
+		"VMKFingersSolverEditor": "UE4Editor-VMKFingersSolverEditor.dll"
+	}
+}

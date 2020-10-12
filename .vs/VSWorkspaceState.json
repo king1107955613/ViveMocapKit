@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Intermediate",
+    "\\Intermediate\\Build",
+    "\\Source",
+    "\\Source\\ViveMocapKit",
+    "\\Source\\ViveMocapKit\\Private"
+  ],
+  "SelectedNode": "\\Source\\ViveMocapKit\\Private\\CaptureDevice.cpp",
+  "PreviewInSolutionExplorer": false
+}

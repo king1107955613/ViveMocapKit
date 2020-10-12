@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"PCH.ViveMocapKit.h.obj",
+		"Module.ViveMocapKit.cpp.obj",
+		"Module.ViveMocapKit.gen.cpp.obj"
+	]
+}
